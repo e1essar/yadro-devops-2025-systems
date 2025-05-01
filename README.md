@@ -2,7 +2,7 @@
 
 ## 1. Linux-команды
   ```bash
-  sudo, mkdir, touch, chmod, cp, mv, ls, cat, tee, grep
+  sudo, mkdir, touch, chmod, cp, mv, ls, cat, tee, grep, echo, docker build, docker run
   ```
 
 ## 2. Напишите команду в Linux, которая будет:
